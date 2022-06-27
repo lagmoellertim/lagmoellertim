@@ -2,7 +2,6 @@
 
 That's what I'm doing currently:
 
-- 🔭 Working on Stable Incremental Face Clustering
 - 🎓 Studying Computer Science at University Osnabruck
 
 Feel free to look around my profile and contribute to my projects!
