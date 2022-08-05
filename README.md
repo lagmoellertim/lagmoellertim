@@ -1,6 +1,7 @@
 ### Hey 👋
 
 That's what I'm doing currently:
+- :crab: Learning Rust
 
 - 🎓 Studying Computer Science at University Osnabruck
 
