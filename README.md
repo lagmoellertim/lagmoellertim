@@ -3,8 +3,6 @@
 That's what I'm doing currently:
 - :crab: Learning Rust
 
-- 🎓 Studying Computer Science at University Osnabruck
-
 Feel free to look around my profile and contribute to my projects!
 
 Have fun 🎉
